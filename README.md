@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
-<h3 align="center">Junior Software Developer and Computer Technician</h3>
+<h3 align="center">Software Developer and Computer Technician</h3>
 
 - 🌱 I’m currently learning **React**
 
