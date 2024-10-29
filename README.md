@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">Software Developer and Computer Technician</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **Javascript, CSS3 and Python**
+- 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
