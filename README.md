@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pixalogi" target="blank"><img src="https://img.shields.io/twitter/follow/pixalogi?logo=twitter&style=for-the-badge" alt="pixalogi" /></a> </p>
 
-- 🌱 Şu anda **Java** öğreniyorum -
+- 🌱 Şu anda **Java** öğreniyorum 
 
 📝 Düzenli olarak [https://medium.com/@pixalogi](https://medium.com/@pixalogi) adresinde makaleler yazıyorum
 
